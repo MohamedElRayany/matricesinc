@@ -1,3 +1,4 @@
+The repository will contain the basic operations that can be done on matrics using C/C++ which are: addition, subtraction, multiplication, and division. 
 # matricesinc
 
 # The basic operations are:
